@@ -2,9 +2,17 @@
 
 Welcome to our group repository for the CS4361 course project. This space will host all code, documentation, and progress updates for our collaborative Java-based project.
 
+## 👥 Team Members
+
+- Maham — ⏳ Role to be assigned  
+- Zain — ⏳ Role to be assigned  
+- Luke — ⏳ Role to be assigned  
+- Abdala — ⏳ Role to be assigned  
+- Eyosias — ⏳ Role to be assigned
+
 ---
 
-## 🧾 Deliverable 1: Project Phase I (5%)
+## 🧾 Deliverable 1: Project Phase I (5%) ✅
 
 As a team, we will submit a **project proposal** (maximum 3 pages, single-spaced) aligned with our chosen theme. The proposal must include:
 
@@ -27,7 +35,7 @@ As a team, we will submit a **project proposal** (maximum 3 pages, single-spaced
 
 ---
 
-## 📈 Deliverable 2: Project Progress Report (3%)
+## 📈 Deliverable 2: Project Progress Report (3%) ⏳
 
 This report will summarize our team’s progress and reflect on the development process. It should include:
 
@@ -48,10 +56,15 @@ This report will summarize our team’s progress and reflect on the development 
 
 ---
 
-## ✅ Collaboration Guidelines
+## 👥 Collaboration Guidelines
 
 - All team members will contribute via GitHub using branches and commits.
 - Use clear commit messages and pull requests for code reviews.
 - Track tasks and deadlines using GitHub Projects or Issues.
 
 ---
+
+### 🔍 Emoji Legend
+
+- ✅ — Task is **done** or **completed**
+- ⏳ — Task is **pending**, needs to be **focused on** and **completed**
