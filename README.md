@@ -35,6 +35,9 @@ As a team, we will submit a **project proposal** (maximum 3 pages, single-spaced
 
 ---
 
+## 🧾 Project Progress ✅
+
+
 ## 📈 Deliverable 2: Project Progress Report (3%) ⏳
 
 This report will summarize our team’s progress and reflect on the development process. It should include:
