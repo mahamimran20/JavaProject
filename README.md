@@ -1,6 +1,26 @@
-# 📘 CS4361 Group Project: Java Collaboration
+# 📘 CS4361 Group Project: Gradient Descent Visualization
 
 Welcome to our group repository for the CS4361 course project. This space will host all code, documentation, and progress updates for our collaborative Java-based project.
+
+## Running the project
+Clone the repo with
+```bash
+git clone https://github.com/mahamimran20/JavaProject.git
+```
+and cd to the demo directory
+```bash
+cd ./JavaProject/demo
+```
+Next, the JavaFX SDK is needed, download the zip and put it into the demo directory. The latest version (25.0.1) is recommended. The example below uses the Linux x64 SDK. The link for other versions can be found at <https://gluonhq.com/products/javafx/>
+```bash
+curl -LO https://download2.gluonhq.com/openjfx/25.0.1/openjfx-25.0.1_linux-x64_bin-sdk.zip
+unzip openjfx-25.0.1_linux-x64_bin-sdk.zip
+```
+Now the project can be compiled and run. Compile all .java files, and run App. The javafx.controls and javafx.graphics modules need to be added manually:
+```bash
+javac --module-path ./javafx-sdk-25.0.1/lib --add-modules javafx.controls,javafx.graphics *.java
+java --module-path ./javafx-sdk-25.0.1/lib --add-modules javafx.controls,javafx.graphics App
+```
 
 ## 👥 Team Members
 
