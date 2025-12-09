@@ -24,11 +24,11 @@ java --module-path ./javafx-sdk-25.0.1/lib --add-modules javafx.controls,javafx.
 
 ## 👥 Team Memberss
 
-- Maham — ⏳ Role to be assigned  
-- Zain — ⏳ Role to be assigned  
-- Luke — ⏳ Role to be assigned  
-- Abdala — ⏳ Role to be assigned  
-- Eyosias — ⏳ Role to be assigned
+- Maham
+- Zain 
+- Luke 
+- Abdala  
+- Eyosias 
 
 ---
 
